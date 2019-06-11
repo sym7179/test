@@ -1,11 +1,11 @@
 # test
-This is a test repository!!!  
+This is a test repository!  
 
-# This is an H1 tag
-## This is an H2 tag
-###### This is an h6 tag  
+# This is a H1 tag
+## This is a H2 tag
+###### This is a h6 tag  
 
-*This is italic emphasis*
+*This is italic emphasis*  
 **This is boldface**
 
 This is a README file for a test project.
