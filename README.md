@@ -8,6 +8,6 @@ This is a test repository!
 *This is italic emphasis*  
 **This is boldface**
 
-This is a README file for a test project.
+This is a README file for a test project.  
 
-![This is Obama](https://en.wikipedia.org/wiki/Barack_Obama#/media/File:President_Barack_Obama.jpg)
+![This is Obama](https://en.wikipedia.org/wiki/Barack_Obama#/media/File:President_Barack_Obama.jpg)  
